@@ -1,0 +1,23 @@
+
+
+body {
+    font-family: sans-serif;
+    font-size: 24px;
+    color: black;
+    text-align: center;
+    border: 7px ridge black;
+    padding: 25px;
+  }
+h1 
+{
+color:black;
+font-size:300%;
+text-align: center;
+border: 7px intset #FF00FF;
+}
+p
+{
+ font-style: italic;
+    border: 7px intset #FF00FF;
+    padding: 10px;
+}
